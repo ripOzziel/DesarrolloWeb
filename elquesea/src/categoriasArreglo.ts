@@ -1,0 +1,21 @@
+export const categorias: string[] = [
+    "A.O.A Alto en grasa",
+    "A.O.A Bajo en grasa",
+    "A.O.A Moderado en grasa",
+    "A.O.A Muy bajo en grasa",
+    "Alimentos libres en energía",
+    "Azúcares con grasa",
+    "Azúcares sin grasa",
+    "Bebidas alcoholicas",
+    "Cereales con grasa",
+    "Cereales Sin Grasa",
+    "Frutas",
+    "Grasas con proteína",
+    "Grasas sin proteína",
+    "Leche con azúcar",
+    "Leche descremada",
+    "Leche entera",
+    "Leche semi",
+    "Leguminosas",
+    "Verduras"
+];
